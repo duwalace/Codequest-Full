@@ -42,7 +42,7 @@ const Index = () => {
   // Features
   const features = [
     {
-      title: 'Aprendizado Gamificado',
+      title: 'Aprendizado Jogando',
       description: 'Ganhe XP, desbloqueie conquistas e suba de nível enquanto aprende programação de forma divertida.',
       icon: <TrophyIcon className="w-6 h-6" />
     },
