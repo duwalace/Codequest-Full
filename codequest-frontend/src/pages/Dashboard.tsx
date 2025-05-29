@@ -59,7 +59,7 @@ const Dashboard = () => {
     },
     {
       id: 'mysql',
-      name: 'MySQL',
+      name: 'MYSQL',
       icon: '/mysql.svg',
       description: 'Gerencie bancos de dados relacionais.',
       color: 'border-blue-700',
